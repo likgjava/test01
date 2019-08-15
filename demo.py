@@ -1,2 +1,2 @@
 
-priint("demo")
+print("demo")
